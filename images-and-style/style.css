@@ -23,7 +23,7 @@ body {
 .l-one {
     display: flex;
     gap: 20px;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .r-one {
@@ -45,7 +45,7 @@ a {
     width: 650px;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 12px;
     justify-content: flex-start;
     align-items: flex-start;
 }
@@ -63,7 +63,7 @@ p {
 }
 
 .subtext {
-    font-size: 18px;
+    font-size: 24px;
     color: #e5e7eb;
 }
 
