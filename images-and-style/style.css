@@ -82,7 +82,8 @@ button {
 img {
     display: flex;
     flex-shrink: 1;
-   height: 285px;
+    height: 285px;
+    margin-bottom: 10px;
 }
 
 .m-heading {
@@ -105,3 +106,22 @@ img {
     align-items: center;
     margin-bottom: 100px;
 }
+
+.middle-bottom {
+    padding: 80px 200px;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.author {
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 25px;
+}
+
